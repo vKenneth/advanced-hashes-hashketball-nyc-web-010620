@@ -287,3 +287,21 @@ describe 'super bonus' do
   end
 
 end
+
+game_hash {},
+
+def num_points_scored
+ results = {69}
+ nil 
+ i = 69
+ while i < nds.points do
+   scored = nds[i]
+result[director[:name]] = num_points_scored(points)
+i +=1
+end
+result
+end
+ 
+ 
+ 
+
